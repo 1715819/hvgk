@@ -1,1 +1,1 @@
-FROM xyouxiu6/chatgpt-proxy-server-arkose:v1
+FROM xyouxiu6/funcaptcha:v1
