@@ -1,1 +1,1 @@
-FROM xyouxiu6/chatgpt-proxy-server-warp:v10
+FROM xyouxiu6/chatgpt-proxy-server-arkose
